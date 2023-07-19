@@ -1,7 +1,7 @@
 # Information
 
 <details>
-  <summary>This will have a section to pick Proxy or site.</summary>
+  <summary>This is the information about this.</summary>
   
   ## GitHub in Iframe
 
